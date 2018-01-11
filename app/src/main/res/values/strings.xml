@@ -1,0 +1,265 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="usd">USD</string>
+    <string name="convert">Convert</string>
+    <string name="inrval">INR Value</string>
+    <string name="swapCurr">Swap</string>
+
+
+    <string-array name="currency_array">
+            <item>AFN - Afghanistan(Afghan afghani)</item>
+            <item>EUR - Akrotiri and Dhekelia (UK)(European euro)</item>
+            <item>EUR - Aland Islands (Finland)(European euro)</item>
+            <item>ALL - Albania(Albanian lek)</item>
+            <item>DZD - Algeria(Algerian dinar)</item>
+            <item>USD - American Samoa (USA)(United States dollar)</item>
+            <item>EUR - Andorra(European euro)</item>
+            <item>AOA - Angola(Angolan kwanza)</item>
+            <item>XCD - Anguilla (UK)(East Caribbean dollar)</item>
+            <item>XCD - Antigua and Barbuda(East Caribbean dollar)</item>
+            <item>ARS - Argentina(Argentine peso)</item>
+            <item>AMD - Armenia(Armenian dram)</item>
+            <item>AWG - Aruba (Netherlands)(Aruban florin)</item>
+            <item>SHP - Ascension Island (UK)(Saint Helena pound)</item>
+            <item>AUD - Australia(Australian dollar)</item>
+            <item>EUR - Austria(European euro)</item>
+            <item>AZN - Azerbaijan(Azerbaijan manat)</item>
+            <item>BSD - Bahamas(Bahamian dollar)</item>
+            <item>BHD - Bahrain(Bahraini dinar)</item>
+            <item>BDT - Bangladesh(Bangladeshi taka)</item>
+            <item>BBD - Barbados(Barbadian dollar)</item>
+            <item>BYN - Belarus(Belarusian ruble)</item>
+            <item>EUR - Belgium(European euro)</item>
+            <item>BZD - Belize(Belize dollar)</item>
+            <item>XOF - Benin(West African CFA franc)</item>
+            <item>BMD - Bermuda (UK)(Bermudian dollar)</item>
+            <item>BTN - Bhutan(Bhutanese ngultrum)</item>
+            <item>BOB - Bolivia(Bolivian boliviano)</item>
+            <item>USD - Bonaire (Netherlands)(United States dollar)</item>
+            <item>BAM - Bosnia and Herzegovina(Bosnia and Herzegovina convertible mark)</item>
+            <item>BWP - Botswana(Botswana pula)</item>
+            <item>BRL - Brazil(Brazilian real)</item>
+            <item>USD - British Indian Ocean Territory (UK)(United States dollar)</item>
+            <item>USD - British Virgin Islands (UK)(United States dollar)</item>
+            <item>BND - Brunei(Brunei dollar)</item>
+            <item>BGN - Bulgaria(Bulgarian lev)</item>
+            <item>XOF - Burkina Faso(West African CFA franc)</item>
+            <item>BIF - Burundi(Burundi franc)</item>
+            <item>CVE - Cabo Verde(Cape Verdean escudo)</item>
+            <item>KHR - Cambodia(Cambodian riel)</item>
+            <item>XAF - Cameroon(Central African CFA franc)</item>
+            <item>CAD - Canada(Canadian dollar)</item>
+            <item>USD - Caribbean Netherlands (Netherlands)(United States dollar)</item>
+            <item>KYD - Cayman Islands (UK)(Cayman Islands dollar)</item>
+            <item>XAF - Central African Republic(Central African CFA franc)</item>
+            <item>XAF - Chad(Central African CFA franc)</item>
+            <item>NZD - Chatham Islands (New Zealand)(New Zealand dollar)</item>
+            <item>CLP - Chile(Chilean peso)</item>
+            <item>CNY - China(Chinese Yuan Renminbi)</item>
+            <item>AUD - Christmas Island (Australia)(Australian dollar)</item>
+            <item>AUD - Cocos (Keeling) Islands (Australia)(Australian dollar)</item>
+            <item>COP - Colombia(Colombian peso)</item>
+            <item>KMF - Comoros(Comorian franc)</item>
+            <item>CDF - Congo, Democratic Republic of the(Congolese franc)</item>
+            <item>XAF - Congo, Republic of the(Central African CFA franc)</item>
+            <item>none - Cook Islands (New Zealand)(Cook Islands dollar)</item>
+            <item>CRC - Costa Rica(Costa Rican colon)</item>
+            <item>XOF - Cote d'Ivoire(West African CFA franc)</item>
+            <item>HRK - Croatia(Croatian kuna)</item>
+            <item>CUP - Cuba(Cuban peso)</item>
+            <item>ANG - Curacao (Netherlands)(Netherlands Antillean guilder)</item>
+            <item>EUR - Cyprus(European euro)</item>
+            <item>CZK - Czech Republic(Czech koruna)</item>
+            <item>DKK - Denmark(Danish krone)</item>
+            <item>DJF - Djibouti(Djiboutian franc)</item>
+            <item>XCD - Dominica(East Caribbean dollar)</item>
+            <item>DOP - Dominican Republic(Dominican peso)</item>
+            <item>USD - Ecuador(United States dollar)</item>
+            <item>EGP - Egypt(Egyptian pound)</item>
+            <item>USD - El Salvador(United States dollar)</item>
+            <item>XAF - Equatorial Guinea(Central African CFA franc)</item>
+            <item>ERN - Eritrea(Eritrean nakfa)</item>
+            <item>EUR - Estonia(European euro)</item>
+            <item>ETB - Ethiopia(Ethiopian birr)</item>
+            <item>FKP - Falkland Islands (UK)(Falkland Islands pound)</item>
+            <item>none - Faroe Islands (Denmark)(Faroese krona)</item>
+            <item>FJD - Fiji(Fijian dollar)</item>
+            <item>EUR - Finland(European euro)</item>
+            <item>EUR - France(European euro)</item>
+            <item>EUR - French Guiana (France)(European euro)</item>
+            <item>XPF - French Polynesia (France)(CFP franc)</item>
+            <item>XAF - Gabon(Central African CFA franc)</item>
+            <item>GMD - Gambia(Gambian dalasi)</item>
+            <item>GEL - Georgia(Georgian lari)</item>
+            <item>EUR - Germany(European euro)</item>
+            <item>GHS - Ghana(Ghanaian cedi)</item>
+            <item>GIP - Gibraltar (UK)(Gibraltar pound)</item>
+            <item>EUR - Greece(European euro)</item>
+            <item>DKK - Greenland (Denmark)(Danish krone)</item>
+            <item>XCD - Grenada(East Caribbean dollar)</item>
+            <item>EUR - Guadeloupe (France)(European euro)</item>
+            <item>USD - Guam (USA)(United States dollar)</item>
+            <item>GTQ - Guatemala(Guatemalan quetzal)</item>
+            <item>GGP - Guernsey (UK)(Guernsey Pound)</item>
+            <item>GNF - Guinea(Guinean franc)</item>
+            <item>XOF - Guinea-Bissau(West African CFA franc)</item>
+            <item>GYD - Guyana(Guyanese dollar)</item>
+            <item>HTG - Haiti(Haitian gourde)</item>
+            <item>HNL - Honduras(Honduran lempira)</item>
+            <item>HKD - Hong Kong (China)(Hong Kong dollar)</item>
+            <item>HUF - Hungary(Hungarian forint)</item>
+            <item>ISK - Iceland(Icelandic krona)</item>
+            <item>INR - India(Indian rupee)</item>
+            <item>IDR - Indonesia(Indonesian rupiah)</item>
+            <item>XDR - International Monetary Fund (IMF)(SDR (Special Drawing Right))</item>
+            <item>IRR - Iran(Iranian rial)</item>
+            <item>IQD - Iraq(Iraqi dinar)</item>
+            <item>EUR - Ireland(European euro)</item>
+            <item>IMP - Isle of Man (UK)(Manx pound)</item>
+            <item>ILS - Israel(Israeli new shekel)</item>
+            <item>EUR - Italy(European euro)</item>
+            <item>JMD - Jamaica(Jamaican dollar)</item>
+            <item>JPY - Japan(Japanese yen)</item>
+            <item>JEP - Jersey (UK)(Jersey pound)</item>
+            <item>JOD - Jordan(Jordanian dinar)</item>
+            <item>KZT - Kazakhstan(Kazakhstani tenge)</item>
+            <item>KES - Kenya(Kenyan shilling)</item>
+            <item>AUD - Kiribati(Australian dollar)</item>
+            <item>EUR - Kosovo(European euro)</item>
+            <item>KWD - Kuwait(Kuwaiti dinar)</item>
+            <item>KGS - Kyrgyzstan(Kyrgyzstani som)</item>
+            <item>LAK - Laos(Lao kip)</item>
+            <item>EUR - Latvia(European euro)</item>
+            <item>LBP - Lebanon(Lebanese pound)</item>
+            <item>LSL - Lesotho(Lesotho loti)</item>
+            <item>LRD - Liberia(Liberian dollar)</item>
+            <item>LYD - Libya(Libyan dinar)</item>
+            <item>CHF - Liechtenstein(Swiss franc)</item>
+            <item>EUR - Lithuania(European euro)</item>
+            <item>EUR - Luxembourg(European euro)</item>
+            <item>MOP - Macau (China)(Macanese pataca)</item>
+            <item>MKD - Macedonia (FYROM)(Macedonian denar)</item>
+            <item>MGA - Madagascar(Malagasy ariary)</item>
+            <item>MWK - Malawi(Malawian kwacha)</item>
+            <item>MYR - Malaysia(Malaysian ringgit)</item>
+            <item>MVR - Maldives(Maldivian rufiyaa)</item>
+            <item>XOF - Mali(West African CFA franc)</item>
+            <item>EUR - Malta(European euro)</item>
+            <item>USD - Marshall Islands(United States dollar)</item>
+            <item>EUR - Martinique (France)(European euro)</item>
+            <item>MRO - Mauritania(Mauritanian ouguiya)</item>
+            <item>MUR - Mauritius(Mauritian rupee)</item>
+            <item>EUR - Mayotte (France)(European euro)</item>
+            <item>MXN - Mexico(Mexican peso)</item>
+            <item>USD - Micronesia(United States dollar)</item>
+            <item>MDL - Moldova(Moldovan leu)</item>
+            <item>EUR - Monaco(European euro)</item>
+            <item>MNT - Mongolia(Mongolian tugrik)</item>
+            <item>EUR - Montenegro(European euro)</item>
+            <item>XCD - Montserrat (UK)(East Caribbean dollar)</item>
+            <item>MAD - Morocco(Moroccan dirham)</item>
+            <item>MZN - Mozambique(Mozambican metical)</item>
+            <item>MMK - Myanmar (Burma)(Myanmar kyat)</item>
+            <item>NAD - Namibia(Namibian dollar)</item>
+            <item>AUD - Nauru(Australian dollar)</item>
+            <item>NPR - Nepal(Nepalese rupee)</item>
+            <item>EUR - Netherlands(European euro)</item>
+            <item>XPF - New Caledonia (France)(CFP franc)</item>
+            <item>NZD - New Zealand(New Zealand dollar)</item>
+            <item>NIO - Nicaragua(Nicaraguan cordoba)</item>
+            <item>XOF - Niger(West African CFA franc)</item>
+            <item>NGN - Nigeria(Nigerian naira)</item>
+            <item>NZD - Niue (New Zealand)(New Zealand dollar)</item>
+            <item>AUD - Norfolk Island (Australia)(Australian dollar)</item>
+            <item>USD - Northern Mariana Islands (USA)(United States dollar)</item>
+            <item>KPW - North Korea(North Korean won)</item>
+            <item>NOK - Norway(Norwegian krone)</item>
+            <item>OMR - Oman(Omani rial)</item>
+            <item>PKR - Pakistan(Pakistani rupee)</item>
+            <item>USD - Palau(United States dollar)</item>
+            <item>ILS - Palestine(Israeli new shekel)</item>
+            <item>USD - Panama(United States dollar)</item>
+            <item>PGK - Papua New Guinea(Papua New Guinean kina)</item>
+            <item>PYG - Paraguay(Paraguayan guarani)</item>
+            <item>PEN - Peru(Peruvian sol)</item>
+            <item>PHP - Philippines(Philippine peso)</item>
+            <item>NZD - Pitcairn Islands (UK)(New Zealand dollar)</item>
+            <item>PLN - Poland(Polish zloty)</item>
+            <item>EUR - Portugal(European euro)</item>
+            <item>USD - Puerto Rico (USA)(United States dollar)</item>
+            <item>QAR - Qatar(Qatari riyal)</item>
+            <item>EUR - Reunion (France)(European euro)</item>
+            <item>RON - Romania(Romanian leu)</item>
+            <item>RUB - Russia(Russian ruble)</item>
+            <item>RWF - Rwanda(Rwandan franc)</item>
+            <item>USD - Saba (Netherlands)(United States dollar)</item>
+            <item>EUR - Saint Barthelemy (France)(European euro)</item>
+            <item>SHP - Saint Helena (UK)(Saint Helena pound)</item>
+            <item>XCD - Saint Kitts and Nevis(East Caribbean dollar)</item>
+            <item>XCD - Saint Lucia(East Caribbean dollar)</item>
+            <item>EUR - Saint Martin (France)(European euro)</item>
+            <item>EUR - Saint Pierre and Miquelon (France)(European euro)</item>
+            <item>XCD - Saint Vincent and the Grenadines(East Caribbean dollar)</item>
+            <item>WST - Samoa(Samoan tala)</item>
+            <item>EUR - San Marino(European euro)</item>
+            <item>STD - Sao Tome and Principe(Sao Tome and Principe dobra)</item>
+            <item>SAR - Saudi Arabia(Saudi Arabian riyal)</item>
+            <item>XOF - Senegal(West African CFA franc)</item>
+            <item>RSD - Serbia(Serbian dinar)</item>
+            <item>SCR - Seychelles(Seychellois rupee)</item>
+            <item>SLL - Sierra Leone(Sierra Leonean leone)</item>
+            <item>SGD - Singapore(Singapore dollar)</item>
+            <item>USD - Sint Eustatius (Netherlands)(United States dollar)</item>
+            <item>ANG - Sint Maarten (Netherlands)(Netherlands Antillean guilder)</item>
+            <item>EUR - Slovakia(European euro)</item>
+            <item>EUR - Slovenia(European euro)</item>
+            <item>SBD - Solomon Islands(Solomon Islands dollar)</item>
+            <item>SOS - Somalia(Somali shilling)</item>
+            <item>ZAR - South Africa(South African rand)</item>
+            <item>GBP - South Georgia Island (UK)(Pound sterling)</item>
+            <item>KRW - South Korea(South Korean won)</item>
+            <item>SSP - South Sudan(South Sudanese pound)</item>
+            <item>EUR - Spain(European euro)</item>
+            <item>LKR - Sri Lanka(Sri Lankan rupee)</item>
+            <item>SDG - Sudan(Sudanese pound)</item>
+            <item>SRD - Suriname(Surinamese dollar)</item>
+            <item>NOK - Svalbard and Jan Mayen (Norway)(Norwegian krone)</item>
+            <item>SZL - Swaziland(Swazi lilangeni)</item>
+            <item>SEK - Sweden(Swedish krona)</item>
+            <item>CHF - Switzerland(Swiss franc)</item>
+            <item>SYP - Syria(Syrian pound)</item>
+            <item>TWD - Taiwan(New Taiwan dollar)</item>
+            <item>TJS - Tajikistan(Tajikistani somoni)</item>
+            <item>TZS - Tanzania(Tanzanian shilling)</item>
+            <item>THB - Thailand(Thai baht)</item>
+            <item>USD - Timor-Leste(United States dollar)</item>
+            <item>XOF - Togo(West African CFA franc)</item>
+            <item>NZD - Tokelau (New Zealand)(New Zealand dollar)</item>
+            <item>TOP - Tonga(Tongan pa’anga)</item>
+            <item>TTD - Trinidad and Tobago(Trinidad and Tobago dollar)</item>
+            <item>GBP - Tristan da Cunha (UK)(Pound sterling)</item>
+            <item>TND - Tunisia(Tunisian dinar)</item>
+            <item>TRY - Turkey(Turkish lira)</item>
+            <item>TMT - Turkmenistan(Turkmen manat)</item>
+            <item>USD - Turks and Caicos Islands (UK)(United States dollar)</item>
+            <item>AUD - Tuvalu(Australian dollar)</item>
+            <item>UGX - Uganda(Ugandan shilling)</item>
+            <item>UAH - Ukraine(Ukrainian hryvnia)</item>
+            <item>AED - United Arab Emirates(UAE dirham)</item>
+            <item>GBP - United Kingdom(Pound sterling)</item>
+            <item>USD - United States of America(United States dollar)</item>
+            <item>UYU - Uruguay(Uruguayan peso)</item>
+            <item>USD - US Virgin Islands (USA)(United States dollar)</item>
+            <item>UZS - Uzbekistan(Uzbekistani som)</item>
+            <item>VUV - Vanuatu(Vanuatu vatu)</item>
+            <item>EUR - Vatican City (Holy See)(European euro)</item>
+            <item>VEF - Venezuela(Venezuelan bolivar)</item>
+            <item>VND - Vietnam(Vietnamese dong)</item>
+            <item>USD - Wake Island (USA)(United States dollar)</item>
+            <item>XPF - Wallis and Futuna (France)(CFP franc)</item>
+            <item>YER - Yemen(Yemeni rial)</item>
+            <item>ZMW - Zambia(Zambian kwacha)</item>
+            <item>USD - Zimbabwe(United States dollar)</item>
+    </string-array>
+
+</resources>
